@@ -3,7 +3,7 @@ import sys
 import urllib.request
 
 URL = "https://ebg-muenchen-west.de/wohnungsangebote/"
-NO_OFFERS_TEXT = "keine freien wohnungen"  # dio rečenice kad nema stanova
+NO_OFFERS_TEXT = "keine freien11 wohnungen"  # dio rečenice kad nema stanova
 STATE_FILE = "state.txt"
 
 
